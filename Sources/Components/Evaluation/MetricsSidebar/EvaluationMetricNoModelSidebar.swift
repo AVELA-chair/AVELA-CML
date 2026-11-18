@@ -27,7 +27,7 @@ struct EvaluationMetricNoModelSidebar: View {
                 .foregroundColor(.secondary)
                 .padding()
         }
-        .background(Color(uiColor: .tertiarySystemBackground))
+        .background(Color(red: 0.98, green: 0.97, blue: 0.93))
         .cornerRadius(10)
         .padding(.horizontal, .sidebar.padding)
     }

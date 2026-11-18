@@ -6,38 +6,46 @@ struct NoProjectsView: View {
     let createProjectAction: () -> Void
 
     var body: some View {
-        VStack {
+        ZStack(alignment: .top) {
+            Color.white
+                .ignoresSafeArea()
 
-            HStack(alignment: .bottom, spacing: 20) {
-                Image(systemName: "photo")
-                    .welcomeImageIcon()
-                    .foregroundStyle(Color.image)
+            VStack {
+                HStack(alignment: .bottom, spacing: 20) {
+                    Image(systemName: "photo")
+                        .welcomeImageIcon()
+                        .foregroundStyle(Color.image)
 
-                Image(systemName: "camera.fill")
-                    .welcomeImageIcon()
-                    .foregroundStyle(Color.camera)
-                    .padding(.bottom, 35)
+                    Image(systemName: "camera.fill")
+                        .welcomeImageIcon()
+                        .foregroundStyle(Color.camera)
+                        .padding(.bottom, 35)
 
-                Image(systemName: "list.bullet.rectangle.fill")
-                    .welcomeImageIcon()
-                    .foregroundStyle(Color.list)
-            }
+                    Image(systemName: "list.bullet.rectangle.fill")
+                        .welcomeImageIcon()
+                        .foregroundStyle(Color.list)
+                }
 
-            Text(.startBuildingYourFirstImageClassifier)
-                .font(.title)
+                Text(.startBuildingYourFirstImageClassifier)
+                    .font(.title)
+                    .padding()
+
+                Button {
+                    createProjectAction()
+                } label: {
+                    Label(.createProject, systemImage: "plus")
+                }
+                .buttonStyle(.borderedProminent)
                 .padding()
-
-            Button {
-                createProjectAction()
-            } label: {
-                Label(.createProject, systemImage: "plus")
             }
-            .buttonStyle(.borderedProminent)
-            .padding()
+            .padding(.top, 32)
+            .padding(.bottom, 24)
+            .frame(maxWidth: .infinity)
+            .background(Color(red: 0.98, green: 0.97, blue: 0.93))
+            .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
+            .padding(.top, 144)
+            .padding(.horizontal, 24)
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(Color(UIColor.systemGray6))
-        .ignoresSafeArea(.all)
     }
 }
 

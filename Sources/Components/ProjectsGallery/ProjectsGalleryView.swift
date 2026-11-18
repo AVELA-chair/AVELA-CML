@@ -64,7 +64,30 @@ struct ProjectsGalleryView: View {
                 Text(error.localizedDescription)
             }
         }
+        .padding(.top, 16)
+        .background {
+            Image("Background")
+                .resizable()
+                .scaledToFill()
+                .ignoresSafeArea()
+                .opacity(0.9)
+        }
         .toolbar {
+            ToolbarItem(placement: .principal) {
+                HStack(spacing: 8) {
+                    Image("Logo")
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 30, height: 30)
+
+                    Text("AVELA")
+                        .font(.headline.weight(.bold))
+                        .foregroundStyle(Color(red: 0.35, green: 0.19, blue: 0.48))
+                }
+                .accessibilityElement(children: .combine)
+                .accessibilityLabel("AVELA")
+            }
+
             ToolbarItemGroup(placement: .navigationBarTrailing) {
                 if !projectsViewModel.models.isEmpty {
                     EditButton()
@@ -120,6 +143,8 @@ struct ProjectsGalleryView: View {
             .disabled(editMode.isEditing)
         }
         .toolbarRole(.navigationStack)
+        .toolbarBackground(.ultraThinMaterial, for: .navigationBar)
+        .tint(Color(red: 0.35, green: 0.19, blue: 0.48))
 
         // MARK: Alerts and Sheets
         .alert(

@@ -131,121 +131,121 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ لإنتاج أفضل نموذج، أضف **مجموعة متنوعة** من الصور إلى كل تسمية."
+            "value" : "لإنتاج أفضل نموذج، أضف **مجموعة متنوعة** من الصور إلى كل تسمية."
           }
         },
         "cho-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Hosh tofoni liholsochi, addi **tak ohmi** chi intokchi apliha."
+            "value" : "Hosh tofoni liholsochi, addi **tak ohmi** chi intokchi apliha."
           }
         },
         "chr-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ ᎾᏍᎩ ᎣᏍᏓ ᏧᏁᎦ, ᎬᏩᏚ ᏧᎾᎵᏏᏙᏗᏱ **ᏧᎾᏬᏂᏍᎩ** ᎯᎠ ᎾᏍᎩ ᏧᏅᏏᏓᏍᏗ ᎤᏩᏒᎯ."
+            "value" : "ᎾᏍᎩ ᎣᏍᏓ ᏧᏁᎦ, ᎬᏩᏚ ᏧᎾᎵᏏᏙᏗᏱ **ᏧᎾᏬᏂᏍᎩ** ᎯᎠ ᎾᏍᎩ ᏧᏅᏏᏓᏍᏗ ᎤᏩᏒᎯ."
           }
         },
         "cic-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Apelahe issoba palilish isht ia, nanta pala chim anukfillit hattak chatuk lopulli."
+            "value" : "Apelahe issoba palilish isht ia, nanta pala chim anukfillit hattak chatuk lopulli."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Um das beste Modell zu erstellen, füge jedem Label einen **unterschiedlichen Satz von Bildern** hinzu."
+            "value" : "Um das beste Modell zu erstellen, füge jedem Label einen **unterschiedlichen Satz von Bildern** hinzu."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ To produce the best model, add a **diverse set** of images to each label."
+            "value" : "To produce the best model, add a **diverse set** of images to each label."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Para producir el mejor modelo, agrega un **conjunto diverso** de imágenes a cada etiqueta."
+            "value" : "Para producir el mejor modelo, agrega un **conjunto diverso** de imágenes a cada etiqueta."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Pour produire le meilleur modèle, ajoutez un **ensemble varié** d’images à chaque étiquette."
+            "value" : "Pour produire le meilleur modèle, ajoutez un **ensemble varié** d’images à chaque étiquette."
           }
         },
         "ga" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Chun an tsamhail is fearr a tháirgeadh, cuir **sraith éagsúil** íomhánna le gach lipéad."
+            "value" : "Chun an tsamhail is fearr a tháirgeadh, cuir **sraith éagsúil** íomhánna le gach lipéad."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ सबसे अच्छा model बनाने के लिए, हर एक label में images का **diverse set** जोड़ें।"
+            "value" : "सबसे अच्छा model बनाने के लिए, हर एक label में images का **diverse set** जोड़ें।"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Untuk menghasilkan model terbaik, tambahkan **beragam rangkaian** gambar ke setiap label."
+            "value" : "Untuk menghasilkan model terbaik, tambahkan **beragam rangkaian** gambar ke setiap label."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Per creare un modello ottimale, aggiungi una **serie diversificata** di immagini a ogni etichetta."
+            "value" : "Per creare un modello ottimale, aggiungi una **serie diversificata** di immagini a ogni etichetta."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ 최상의 모델을 생성하려면 각 레이블에 **다양한 이미지 세트**를 추가하십시오."
+            "value" : "최상의 모델을 생성하려면 각 레이블에 **다양한 이미지 세트**를 추가하십시오."
           }
         },
         "mi-NZ" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Kia pai rawa ai te tauira, tāpiri he huinga **kanorau** whakaahua ki ia tapanga."
+            "value" : "Kia pai rawa ai te tauira, tāpiri he huinga **kanorau** whakaahua ki ia tapanga."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Para produzir o melhor modelo, adicione um **conjunto diversificado** de imagens a cada etiqueta."
+            "value" : "Para produzir o melhor modelo, adicione um **conjunto diversificado** de imagens a cada etiqueta."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Чтобы создать лучшую модель, добавьте к каждой метке **набор разных** изображений."
+            "value" : "Чтобы создать лучшую модель, добавьте к каждой метке **набор разных** изображений."
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ சிறந்த மாதிரியை உருவாக்க, ஒவ்வொரு லேபிளிலும் **பல்வேறு படங்களின் தொகுப்பைச்** சேர்க்கவும்."
+            "value" : "சிறந்த மாதிரியை உருவாக்க, ஒவ்வொரு லேபிளிலும் **பல்வேறு படங்களின் தொகுப்பைச்** சேர்க்கவும்."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Щоб створити найкращу модель, додайте до кожної мітки **неоднорідний набір** зображень."
+            "value" : "Щоб створити найкращу модель, додайте до кожної мітки **неоднорідний набір** зображень."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ Để tạo ra mô hình tốt nhất, hãy thêm một **tập hợp hình ảnh đa dạng** vào mỗi nhãn."
+            "value" : "Để tạo ra mô hình tốt nhất, hãy thêm một **tập hợp hình ảnh đa dạng** vào mỗi nhãn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "☝️ 为训练出性能卓越的模型，请为每个标签添加**种类丰富、形式多样**的图像。"
+            "value" : "为训练出性能卓越的模型，请为每个标签添加**种类丰富、形式多样**的图像。"
           }
         }
       }
@@ -257,49 +257,49 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 ثم **اجمع بيانات التدريب** عن طريق إضافة الصور إلى كل تسمية."
+            "value" : "ثم **اجمع بيانات التدريب** عن طريق إضافة الصور إلى كل تسمية."
           }
         },
         "cho-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Tohbi **oktokchi holitoba** chi liholsochi apliha."
+            "value" : "Tohbi **oktokchi holitoba** chi liholsochi apliha."
           }
         },
         "chr-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 ᎿᎭᏉ ᎢᏤᏔᏛ **ᎠᎵᏏᏙᎲᏍᎦ** ᎦᏥᏩᏛᏍᏗᎭ ᎾᏍᎩᏯᎢ."
+            "value" : "ᎿᎭᏉ ᎢᏤᏔᏛ **ᎠᎵᏏᏙᎲᏍᎦ** ᎦᏥᏩᏛᏍᏗᎭ ᎾᏍᎩᏯᎢ."
           }
         },
         "cic-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Kanimachi hattak lopullichi **palilish**."
+            "value" : "Kanimachi hattak lopullichi **palilish**."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Dann **sammle Trainingsdaten**, indem du jedem Label Bilder hinzufügst."
+            "value" : "Dann **sammle Trainingsdaten**, indem du jedem Label Bilder hinzufügst."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Then **collect training data** by adding images to each label."
+            "value" : "Then **collect training data** by adding images to each label."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Luego, **recopila datos de entrenamiento** agregando imágenes a cada etiqueta."
+            "value" : "Luego, **recopila datos de entrenamiento** agregando imágenes a cada etiqueta."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Ensuite, **collectez des données d’entraînement** en ajoutant des images à chaque étiquette."
+            "value" : "Ensuite, **collectez des données d’entraînement** en ajoutant des images à chaque étiquette."
           }
         },
         "ga" : {
@@ -311,55 +311,55 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 हर एक label में images जोड़ने के लिए **training data collect करें**।"
+            "value" : "हर एक label में images जोड़ने के लिए **training data collect करें**।"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Kemudian, **kumpulkan data latihan** dengan menambahkan gambar ke setiap label."
+            "value" : "Kemudian, **kumpulkan data latihan** dengan menambahkan gambar ke setiap label."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Successivamente, **raccogli i dati di addestramento** aggiungendo immagini a ogni etichetta."
+            "value" : "Successivamente, **raccogli i dati di addestramento** aggiungendo immagini a ogni etichetta."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 그런 다음 각 레이블에 이미지를 추가하여 **교육 데이터를 수집**합니다."
+            "value" : "그런 다음 각 레이블에 이미지를 추가하여 **교육 데이터를 수집**합니다."
           }
         },
         "mi-NZ" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Kātahi ka **kohikohi raraunga whakangungu** mā te tāpiri whakaahua ki ia tapanga."
+            "value" : "Kātahi ka **kohikohi raraunga whakangungu** mā te tāpiri whakaahua ki ia tapanga."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Em seguida, **colete dados de treinamento** adicionando imagens a cada etiqueta."
+            "value" : "Em seguida, **colete dados de treinamento** adicionando imagens a cada etiqueta."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Затем **соберите данные об обучении**, добавив изображения к каждой метке."
+            "value" : "Затем **соберите данные об обучении**, добавив изображения к каждой метке."
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 பின்னர் ஒவ்வொரு லேபிளிலும் படங்களைச் சேர்ப்பதன் மூலம் **பயிற்சித் தரவை சேகரிக்கவும்**."
+            "value" : "பின்னர் ஒவ்வொரு லேபிளிலும் படங்களைச் சேர்ப்பதன் மூலம் **பயிற்சித் தரவை சேகரிக்கவும்**."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 Потім **підготуйте дані для навчання**, додавши зображення до кожної мітки."
+            "value" : "Потім **підготуйте дані для навчання**, додавши зображення до кожної мітки."
           }
         },
         "vi" : {
@@ -371,7 +371,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📸 然后，通过为每个标签添加图像来**收集训练数据**。"
+            "value" : "然后，通过为每个标签添加图像来**收集训练数据**。"
           }
         }
       }
@@ -383,49 +383,49 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **قم بتحرير التسميات** لتسمية العناصر التي تريد تصنيفها."
+            "value" : "**قم بتحرير التسميات** لتسمية العناصر التي تريد تصنيفها."
           }
         },
         "cho-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Holhito chi tak labili** yvt akit oyyoi chi holitohbi tuk."
+            "value" : "**Holhito chi tak labili** yvt akit oyyoi chi holitohbi tuk."
           }
         },
         "chr-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **ᎢᏤᏔᏲᏏᏒ ᏂᏨᏒᏉ** ᎯᎠ ᎢᏣᏚᎵᏍᎬᎢ ᎾᏍᎩ ᎢᏣᏚᎵᏍᎪᎢ."
+            "value" : "**ᎢᏤᏔᏲᏏᏒ ᏂᏨᏒᏉ** ᎯᎠ ᎢᏣᏚᎵᏍᎬᎢ ᎾᏍᎩ ᎢᏣᏚᎵᏍᎪᎢ."
           }
         },
         "cic-US" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 Nanta holisso apakfochi chim anumpuli palilish isht alakayvt tuk."
+            "value" : "Nanta holisso apakfochi chim anumpuli palilish isht alakayvt tuk."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Bearbeite deine Labels**, um Elemente zu benennen, die du klassifizieren möchtest."
+            "value" : "**Bearbeite deine Labels**, um Elemente zu benennen, die du klassifizieren möchtest."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Edit your labels** to name items you want to classify."
+            "value" : "**Edit your labels** to name items you want to classify."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Edita las etiquetas** para asignarles nombres a los elementos que quieres clasificar."
+            "value" : "**Edita las etiquetas** para asignarles nombres a los elementos que quieres clasificar."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Modifiez vos étiquettes** pour nommer les éléments que vous souhaitez classifier."
+            "value" : "**Modifiez vos étiquettes** pour nommer les éléments que vous souhaitez classifier."
           }
         },
         "ga" : {
@@ -437,55 +437,55 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 आप जिन items को classify करना चाहते हैं उन्हें नाम देने के लिए **अपने labels edit करें**।"
+            "value" : "आप जिन items को classify करना चाहते हैं उन्हें नाम देने के लिए **अपने labels edit करें**।"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Edit label** untuk memberi nama item yang ingin Anda klasifikasikan."
+            "value" : "**Edit label** untuk memberi nama item yang ingin Anda klasifikasikan."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Modifica le etichette** per denominare gli elementi che desideri classificare."
+            "value" : "**Modifica le etichette** per denominare gli elementi che desideri classificare."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **레이블을 편집**하여 분류할 항목의 이름을 지정합니다."
+            "value" : "**레이블을 편집**하여 분류할 항목의 이름을 지정합니다."
           }
         },
         "mi-NZ" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Whakatika ō tapanga** kia whai ingoa ai ngā mea e hiahia ana koe kia mōhiotia."
+            "value" : "**Whakatika ō tapanga** kia whai ingoa ai ngā mea e hiahia ana koe kia mōhiotia."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Edite suas etiquetas** para nomear os itens que deseja classificar."
+            "value" : "**Edite suas etiquetas** para nomear os itens que deseja classificar."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Редактируйте метки**, чтобы назвать элементы, которые необходимо классифицировать."
+            "value" : "**Редактируйте метки**, чтобы назвать элементы, которые необходимо классифицировать."
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 நீங்கள் வகைப்படுத்த விரும்பும் ஐட்டம்களுக்குப் பெயரிட உங்கள் **லேபிள்களைத் திருத்தவும்**."
+            "value" : "நீங்கள் வகைப்படுத்த விரும்பும் ஐட்டம்களுக்குப் பெயரிட உங்கள் **லேபிள்களைத் திருத்தவும்**."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **Відредагуйте мітки**, щоб назвати елементи, які потрібно класифікувати."
+            "value" : "**Відредагуйте мітки**, щоб назвати елементи, які потрібно класифікувати."
           }
         },
         "vi" : {
@@ -497,7 +497,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📝 **编辑标签**，为想要分类的项目命名。"
+            "value" : "**编辑标签**，为想要分类的项目命名。"
           }
         }
       }
@@ -1713,6 +1713,9 @@
           }
         }
       }
+    },
+    "AVELA" : {
+
     },
     "Back" : {
       "comment" : "Button title.",

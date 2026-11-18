@@ -543,10 +543,9 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Supporting Files/CoMLApp-Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Co-ML";
+				INFOPLIST_KEY_CFBundleDisplayName = "AVELA CML";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This lets you take photos to train a machine learning model.";
-				INFOPLIST_KEY_UILaunchStoryboardName = "";
 				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
@@ -571,7 +570,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				CODE_SIGN_ENTITLEMENTS = "Supporting Files/CoMLApp Release.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Supporting Files/CoMLApp.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = "$(MARKETING_VERSION).$(RC_ProjectSourceVersion).$(RC_ProjectBuildVersion)";
@@ -580,10 +579,9 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Supporting Files/CoMLApp-Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Co-ML";
+				INFOPLIST_KEY_CFBundleDisplayName = "AVELA CML";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This lets you take photos to train a machine learning model.";
-				INFOPLIST_KEY_UILaunchStoryboardName = "";
 				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 18.6;

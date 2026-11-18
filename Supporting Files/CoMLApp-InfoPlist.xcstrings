@@ -7,122 +7,122 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "cho-US" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "chr-US" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "cic-US" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Co-ML"
+            "value" : "AVELA CML"
           }
         },
         "es-419" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "ga" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "id" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "mi-NZ" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "ta" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Co-ML"
+            "state" : "needs_review",
+            "value" : "AVELA CML"
           }
         }
       }

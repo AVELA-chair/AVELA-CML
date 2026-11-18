@@ -10,7 +10,7 @@ struct EvaluationMetricSidebar: View {
             innerView
             Divider()
         }
-        .background(Color(UIColor.systemGray6))
+        .background(Color(red: 0.98, green: 0.97, blue: 0.93))
         .frame(width: .sidebar.width)
         .fixedSize(horizontal: true, vertical: false)
         .scrollContentBackground(.hidden)

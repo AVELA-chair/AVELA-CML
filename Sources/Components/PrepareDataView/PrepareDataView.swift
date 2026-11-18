@@ -72,7 +72,7 @@ struct PrepareDataInnerView: View {
     private var gridView: some View {
         HStack(spacing: 0) {
             PrepareDataSidebar(labelStats: labelStats)
-                .background(Color(UIColor.systemGray6))
+                .background(Color(red: 0.98, green: 0.97, blue: 0.93))
 
             PrepareDataGridView(viewModel: albumCoverViewStates,
                                 imageNamespace: imageNamespace,

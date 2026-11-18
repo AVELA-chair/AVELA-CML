@@ -31,10 +31,10 @@ struct DataExportBundle {
     }
 
     private func exportFolderName(projectName: String, date: Date) -> String {
-        "CoML \(projectName) \(date.exportFolderDateString)"
+        "AVELA CML \(projectName) \(date.exportFolderDateString)"
     }
 
-    /// Returns a project name for export, falling back to "CoML Project" if something went wrong.
+    /// Returns a project name for export, falling back to "AVELA CML Project" if something went wrong.
     private func fetchProjectNameForExport() async -> String {
         var projectMetadata: Project?
 
@@ -53,7 +53,7 @@ struct DataExportBundle {
 
     /// The fallback project name, when the project name could not be fetched.
     var fallbackProjectNameForExport: String {
-        "CoML Project"
+        "AVELA CML Project"
     }
 
     private func saveDataset(tempURL: URL) async throws {
