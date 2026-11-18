@@ -27,7 +27,7 @@ final class CoreDataStackImpl: CoreDataStack {
         static let projectIDKey = "ProjectID"
     }
 
-    static let shared = CoreDataStackImpl()
+    static let shared = CoreDataStackImpl(useCloudKit: false)
 
     let useCloudKit: Bool
 

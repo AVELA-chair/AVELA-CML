@@ -16,7 +16,7 @@ final class CoreDataDatabaseStorageService: DatabaseStorageService {
             os_log(.error, "Using in-memory CoreDataStackFake")
             return CoreDataDatabaseStorageService(coreDataStack: CoreDataStackFake())
         } else {
-            return CoreDataDatabaseStorageService(coreDataStack: CoreDataStackImpl())
+            return CoreDataDatabaseStorageService(coreDataStack: CoreDataStackImpl(useCloudKit: false))
         }
     }()
 
