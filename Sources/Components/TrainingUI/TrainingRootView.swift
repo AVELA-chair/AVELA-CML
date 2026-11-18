@@ -72,7 +72,7 @@ private struct TrainingInnerRootView: View {
 
     private var mainContent: some View {
         ZStack(alignment: .top) {
-            Color.white
+            Color.pageBackground
 
             HStack {
                 Spacer()

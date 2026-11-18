@@ -82,7 +82,7 @@ struct ProjectsGalleryView: View {
 
                     Text("AVELA")
                         .font(.headline.weight(.bold))
-                        .foregroundStyle(Color(red: 0.35, green: 0.19, blue: 0.48))
+                        .foregroundStyle(Color.brandPurple)
                 }
                 .accessibilityElement(children: .combine)
                 .accessibilityLabel("AVELA")
@@ -144,7 +144,7 @@ struct ProjectsGalleryView: View {
         }
         .toolbarRole(.navigationStack)
         .toolbarBackground(.ultraThinMaterial, for: .navigationBar)
-        .tint(Color(red: 0.35, green: 0.19, blue: 0.48))
+        .tint(Color.brandPurple)
 
         // MARK: Alerts and Sheets
         .alert(

@@ -63,7 +63,7 @@ private struct ExportInnerView: View {
 private struct TopPanelViewModifier: ViewModifier {
     func body(content: Content) -> some View {
         content
-            .background(Color(red: 0.98, green: 0.97, blue: 0.93))
+            .background(Color.cream)
             .clipShape(RoundedRectangle(cornerRadius: .trainingCard.cornerRadius))
             .padding(.bottom)
     }
@@ -72,7 +72,7 @@ private struct TopPanelViewModifier: ViewModifier {
 private struct BottomPanelViewModifier: ViewModifier {
     func body(content: Content) -> some View {
         content
-            .background(Color(red: 0.98, green: 0.97, blue: 0.93))
+            .background(Color.cream)
             .clipShape(RoundedRectangle(cornerRadius: .trainingCard.cornerRadius))
     }
 }

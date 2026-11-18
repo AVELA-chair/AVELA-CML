@@ -7,7 +7,7 @@ struct NoProjectsView: View {
 
     var body: some View {
         ZStack(alignment: .top) {
-            Color.white
+            Color.pageBackground
                 .ignoresSafeArea()
 
             VStack {
@@ -41,7 +41,7 @@ struct NoProjectsView: View {
             .padding(.top, 32)
             .padding(.bottom, 24)
             .frame(maxWidth: .infinity)
-            .background(Color(red: 0.98, green: 0.97, blue: 0.93))
+            .background(Color.cream)
             .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
             .padding(.top, 144)
             .padding(.horizontal, 24)

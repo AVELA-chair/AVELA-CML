@@ -13,7 +13,7 @@ extension View {
 
     func trainingCardOverlay() -> some View {
         self
-            .background(Color(red: 0.98, green: 0.97, blue: 0.93))
+            .background(Color.cream)
             .frame(width: .trainingCard.frame, height: .trainingCard.frame)
             .clipShape(RoundedRectangle(cornerRadius: .trainingCard.cornerRadius))
             .padding(.top, .trainingCard.largePadding)
@@ -22,7 +22,7 @@ extension View {
     func trainingCardPreviewStyle() -> some View {
         NavigationStack {
             ZStack(alignment: .top) {
-                Color.white
+                Color.pageBackground
 
                 GroupBox {
                     self

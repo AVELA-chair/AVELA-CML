@@ -99,7 +99,7 @@ struct ProjectGridView: View {
                     .foregroundColor(.secondary)
             }
         }
-        .background(Color(red: 0.98, green: 0.97, blue: 0.93))
+        .background(Color.cream)
     }
 
     private var bundleVersionString: String {
