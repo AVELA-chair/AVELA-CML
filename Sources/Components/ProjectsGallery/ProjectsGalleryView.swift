@@ -91,6 +91,7 @@ struct ProjectsGalleryView: View {
             ToolbarItemGroup(placement: .navigationBarTrailing) {
                 if !projectsViewModel.models.isEmpty {
                     EditButton()
+                        .tint(Color.lightPurple)
                         .padding()
                         .environment(\.editMode, $editMode)
                         .onChange(of: editMode) { newValue in
@@ -107,6 +108,7 @@ struct ProjectsGalleryView: View {
                         Label(.deleteProjects, systemImage: "trash")
                             .labelStyle(.iconOnly)
                     }
+                    .tint(Color.lightPurple)
                     .padding()
                     .disabled(projectsViewModel.deleteButtonDisabled)
                 } else {
@@ -119,6 +121,7 @@ struct ProjectsGalleryView: View {
                         Label(.addNewProject, systemImage: "plus")
                             .contentShape(Rectangle())
                     }
+                    .tint(Color.lightPurple)
                     .padding()
                     .disabled(projectsViewModel.projectListState.isLoading)
                 }
