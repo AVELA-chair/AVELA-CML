@@ -131,17 +131,6 @@ struct ProjectsGalleryView: View {
             : String(localized: .myProjects)
         )
         .navigationBarTitleDisplayMode(.inline)
-        .toolbarTitleMenu {
-            Button {
-                Task(priority: .userInitiated) {
-                    editMode = .inactive
-                    await projectsViewModel.updateProjects()
-                }
-            } label: {
-                Label(.refresh, systemImage: "arrow.2.squarepath")
-            }
-            .disabled(editMode.isEditing)
-        }
         .toolbarRole(.navigationStack)
         .toolbarBackground(.ultraThinMaterial, for: .navigationBar)
         .tint(Color.brandPurple)
